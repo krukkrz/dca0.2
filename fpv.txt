@@ -1,0 +1,29 @@
+﻿--RAMA--
+Rama ��czy wszystkie elementy drona w jedn� ca�o��. Wa�ne by by�a zar�wno lekka jak i posiada�a du�o miejsca na monta� wszystkich niezb�dnych urz�dze�. Najlepsze ramy s� wykonane z w��kna w�glowego z naci�ciami pozwalaj�cymi na �atwy monta� kamer oraz elektroniki.
+
+--SILNIKI--
+Silniki unios� drona i od nich b�dzie zale�a�o jego przyspieszenie. W naszej konstrukcji wykorzystujemy cztery silniki. Wa�na uwaga: nale�y zakupi� dwa silniki zgodne z ruchem wskaz�wek zegara (clock-wise CW) oraz dwa przeciwne do ruchu wskaz�wek zegara (counter-clock-wise CCW). R��ni� si� one gwintem, na kt�rym osadzone jest �mig�o.
+
+--REGULATOR ESC--
+Regulator ESC (Electronic Speed Controller) zapewnia komunikacj� pomi�dzy silnikami a kontrolerem lotu. W zale�no�ci od informacji kt�ra przyjdzie z radia, ESC zmieni pr�dko�� silnika pozwalaj�c na zmian� kierunku lotu oraz pr�dko�ci. Do budowy tego drona potrzebne b�d� cztery regulatory ESC (po jednym na ka�dy silnik).
+
+--BATERIA--
+Bateria zasili drona aby m�g� utrzymywa� si� w powietrzu, oraz dostarczy mu wystarczaj�co du�o mocy by wykona� najbardziej wymy�lne ewolucje. Zaproponowana bateria o pojemno�ci 2200mAh to idealny balans pomi�dzy jej pojemno�ci� a wag�.
+
+--�MIG�A--
+�mig�a unios� drona w powietrze. Bardzo cz�sto ulegaj� zniszczeniu przy zderzeniu, dlatego zawsze warto mie� kilka dodatkowych sztuk przy sobie. Nale�y pami�ta� by zakupi� po dwa �mig�a zgodne z ruchem wskaz�wek zegara (clock-wise CW) oraz dwa przeciwne do ruchu wskaz�wek zegara (counter-clock-wise CCW). R��ni� si� one kszta�tem zale�nym od kierunku obrotu.
+
+--RADIO--
+Na komunikację z dronem sk�adaj� si� dwa elementy: nadajnik radiowy oraz odbiornik. Nadajnik pozwoli na pe�n� kontrol� nad ruchami drona. Odbiornik przetworzy sygna� a nast�pnie przekarze informacj� dalej do poszczeg�lnych element�w elektroniki.
+
+--KONTROLER LOTU--
+To mały mózg drona. Otrzymuje informacje z odbiornika radiowego a następnie przekazuje konkretne polecenia do regulatorów ESC (Electronic Speed Controller) które zarządzają każdym z silników. Posiada również zestaw sensorów takich jak żyroskop czy kompas które pozwalają na orientację w terenie.
+
+--ROZDZIELACZ MOCY--
+Rozdzielacz mocy PDB (Power Distribution Board) pomaga rozdzielić napięcie pomiędzy różnymi componentami takimi jak ESC lub kamerą. Usprawnia ona lutowanie elementów oraz pozwala na lepszą organizację przewodów.
+
+--GOGLE FPV--
+Gogle FPV pozwalają pilotowi przenieść się na pokład drona, bez odrywania od ziemi. Gogle powinny zapewniać komfort użytkowania.
+
+--KAMERA--
+To co pozwala człowiekowi nawigować dronem to zmysł wzroku. W przypadku FPV przeniesiony został ten zmysł na pokład drona. Na układ pozwalający widzieć obraz z perspektywy drona składają się: kamera oraz transmiter wideo.
