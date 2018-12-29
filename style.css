@@ -107,7 +107,7 @@ a:link , a:visited, a:hover
 	color: white;
 }
 
-.part
+.lista
 {
 	background-color: white;
 	color: #19191c;
@@ -121,7 +121,7 @@ a:link , a:visited, a:hover
 	font-size:12px;
 }
 
-.part:hover
+.lista:hover
 {
 	background-color: transparent;
 	color: white;
