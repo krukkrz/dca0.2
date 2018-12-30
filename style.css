@@ -3,7 +3,7 @@ body {
 	background-image: url("asfalt-light.png");
 	color: white;
 	font-family: 'Montserrat', sans-serif;
-	position: fixed;
+	position: absolute;
 	top: 12%;
 	width: 100%;
 }

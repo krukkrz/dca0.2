@@ -1,0 +1,21 @@
+--LUTOWANIE--
+Przewody ³¹cz¹ce elektroniczne elementy drona musz¹ zostaæ przylutowane aby zapewniæ stabilne po³¹czenie i odpowienie przewodnictwo. To nic trudnego. 
+
+Do lutowania potrzebne bêd¹:
+- lutownica
+- cyna
+- kalafonia
+
+UWAGA: Nie nale¿y dotykaæ grotu lutownicy po nagrzaniu, poniewa¿ grozi to bardzo powa¿nym oparzeniem.
+
+Instrukcja lutowania:
+- Zdejmij izolacjê z koñcówek przewodów.
+- Jeœli jest to tak zwana linka (na przewód sk³ada siê du¿o cienkich drucików w jednej izolacji) nale¿y zakrêciæ koñcówkê tak aby nie odstawa³ ¿aden drucik.
+- Koñcówkê przewodu nagrzej lutownic¹ a nastêpnie w³ó¿ j¹ do pojemnika z kalafoni¹.
+- Ponownie nagrzej koñcówkê a po 2-4 sekundach przy³ó¿ cynê (do przewodu, nie do grota). Cyna powinna siê stopiæ i rozlaæ równomiernie po koñcówce przewodu. 
+- Gdy na przewodzie znajdzie siê odpowiednia iloœæ cyny oddal j¹. 
+- Przy³ó¿ koñcówkê z na³o¿on¹ cyn¹ do elementu, z którym chcesz j¹ po³¹czyæ.
+- Do koñcówki przewodu przy³ó¿ lutownicê.
+- Gdy koñcówka siê nagrzeje cyna zgromadzona na niej rozleje siê na element z którym j¹ ³¹czymy.
+- Odejmij lutownicê i odczekaj sekundê nie ruszaj¹c przewodu i elementu.
+- Gdy cyna zastygnie lut jest gotowy!

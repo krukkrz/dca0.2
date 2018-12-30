@@ -5,7 +5,7 @@ $('body').fadeIn(1000);
 });
 
 
-	var tekst1 =  "Tutaj będzie opis jak powinno się lutować";
+	var tekst1 =  "Przewody łączące elektroniczne elementy drona muszą zostać przylutowane aby zapewnić stabilne połączenie i odpowienie przewodnictwo. To nic trudnego. <br> Do lutowania potrzebne będą: <ul><li>lutownica</li><li>cyna</li><li>kalafonia</li></ul> <br> UWAGA: Nie należy dotykać grotu lutownicy po nagrzaniu, ponieważ grozi to bardzo poważnym oparzeniem. <br><br>Instrukcja lutowania:<ul><li>Zdejmij izolację z końcówek przewodów.</li><li>Jeśli jest to tak zwana linka (na przewód składa się dużo cienkich drucików w jednej izolacji) należy zakręcić końcówkę tak aby nie odstawał żaden drucik.</li><li>Końcówkę przewodu nagrzej lutownicą a następnie włóż ją do pojemnika z kalafonią.</li><li>Ponownie nagrzej końcówkę a po 2-4 sekundach przyłóż cynę (do przewodu, nie do grota). Cyna powinna się stopić i rozlać równomiernie po końcówce przewodu.</li><li>Gdy na przewodzie znajdzie się odpowiednia ilość cyny oddal ją. </li><li>Przyłóż końcówkę z nałożoną cyną do elementu, z którym chcesz ją połączyć.</li><li>Do końcówki przewodu przyłóż lutownicę.</li><li>Gdy końcówka się nagrzeje cyna zgromadzona na niej rozleje się na element z którym ją łączymy.</li><li>Odejmij lutownicę i odczekaj sekundę nie ruszając przewodu i elementu.</li><li>Gdy cyna zastygnie lut jest gotowy!</li></ul>";
 	var tekst2 =  "Tutaj będzie instrukcja jak złożyć ramę";
 	var tekst3 =  "Tu będzie schemat elektryczny";
 	var tekst4 =  "Bateria zasili drona aby mógł utrzymywać się w powietrzu, oraz dostarczy mu wystarczająco dużo mocy by wykonać najbardziej wymyślne ewolucje. Zaproponowana bateria o pojemności 2200mAh to idealny balans pomiędzy jej pojemnością a wagą.";
@@ -23,7 +23,7 @@ $('body').fadeIn(1000);
 	numer=nr;
 
 	// wybór obrazka
-	var plik = "<img src=\"elementy/element"+numer+".png\" width=\"60%\" max-height=\"auto\"/>";
+	var plik = "<img src=\"kroki/krok"+numer+".png\" width=\"60%\" max-height=\"auto\"/>";
 	document.getElementById("obraz").innerHTML = plik;
 
 	// wybór tekstu
