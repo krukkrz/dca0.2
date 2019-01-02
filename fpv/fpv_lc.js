@@ -50,7 +50,7 @@ $('body').fadeIn(1000);
 	// wybór linku
 	var link=[link1, link2, link3, link4, link5, link6, link7, link8, link9, link10];
 	var lin=nr-1;
-	var href = "<a href=\""+link[lin]+"\"><div class=\"kup\">Kup ten element</div></a>";
+	var href = "<a target=”_blank” href=\""+link[lin]+"\"><div class=\"kup\">Kup ten element</div></a>";
 	document.getElementById("sklep").innerHTML = href;
 
 }
