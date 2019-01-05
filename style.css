@@ -1,6 +1,16 @@
 body {
 	background-color: #19191c;
+	/* background-color: #212121; */
+	/* background-color: #333333; */
 	background-image: url("asfalt-light.png");
+	/* background-image: url("back2.png"); */
+	/* TYM SIE ROBI TŁO CO SIĘ PRZESUWA PRZY SKROLLOWANIU */
+	background-attachment: fixed;
+  background-position: left;
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+
+
 	color: white;
 	font-family: 'Montserrat', sans-serif;
 	position: absolute;
@@ -10,7 +20,9 @@ body {
 
 #logo
 {
+	margin-top: 5%;
 	text-align:center;
+	position: sticky;
 }
 
 #logo img
@@ -22,10 +34,11 @@ body {
 .opcje
 {
 	background-color: white;
-	color: #19191c;
+	color: #333333;
 	border-radius: 5px;
+	border: 1px solid white;
 	transition:  0.5s ease-in-out;
-	min-height: 60px;
+	min-height: 50px;
 	padding: 10px;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -36,11 +49,11 @@ body {
 
 .opcje:hover
 {
-
 	background-color: transparent;
 	color: white;
-
+	border: 1px solid white;
 }
+
 a:link , a:visited, a:hover
 {
 	text-decoration:none;
@@ -50,8 +63,9 @@ a:link , a:visited, a:hover
 .tematy
 {
 	background-color: white;
-	color: #19191c;
+	color: #333333;
 	border-radius: 5px;
+	border: 1px solid white;
 	transition:  0.5s ease-in-out;
 	height: 140px;
 	line-height: 140px;
@@ -64,6 +78,7 @@ a:link , a:visited, a:hover
 {
 	background-color: transparent;
 	color: white;
+	border: 1px solid white;
 }
 
 .par
@@ -91,8 +106,9 @@ a:link , a:visited, a:hover
 .kup
 {
 	background-color: white;
-	color: #19191c;
+	color: #333333;
 	border-radius: 5px;
+	border: 1px solid white;
 	transition:  0.5s ease-in-out;
 	min-height: 30px;
 	line-height:30px;
@@ -105,13 +121,15 @@ a:link , a:visited, a:hover
 {
 	background-color: transparent;
 	color: white;
+	border: 1px solid white;
 }
 
 .lista
 {
 	background-color: white;
-	color: #19191c;
-	border-radius: 5px;
+	color: #333333;
+	border-radius: 2px;
+	border: 1px solid white;
 	transition:  0.5s ease-in-out;
 	height: 30px;
 	line-height:30px;
@@ -125,4 +143,10 @@ a:link , a:visited, a:hover
 {
 	background-color: transparent;
 	color: white;
+	border: 1px solid white;
+}
+
+h1
+{
+	font-weight: bold;
 }

@@ -38,7 +38,7 @@ Jest ona z³o¿ona z dwóch p³ytek. S¹ one identyczne oraz nie ma w nich znaczenia 
 //--------//
 
 --RAMIONA--
-Budowê drona nale¿y zacz¹æ od monta¿u jego ramion. Na ramionach zamontujesz silniki oraz regulatory ESC.<br>
+Budowê drona nale¿y zacz¹æ od monta¿u jego ramion. Na ramionach zamontujesz silniki oraz regulatory ESC.<br><br>
 Do monta¿u silnika u¿yj czterech œrub M1. Przy³ó¿ podstawê silnika tak aby przewody by³y po³o¿one na ramieniu, a nastêpnie przykrêæ pierwsz¹ œrubê. Gdy to zrobisz ustaw silnik tak by jego oœ by³a w osi œrodkowego otworu ramienia, a nagwintowane otwory silnika by³y widoczne przez pozosta³e trzy pod³u¿ne otwory. Teraz przykrêæ pozosta³e œruby.<br><br>
 
 Nastêpnie nale¿y zaj¹æ siê przymocowaniem oraz lutowaniem regulatora ESC. W pierwszej kolejnoœci przy³ó¿ go do ramienia w takiej odleg³oœci od silnika aby nie zas³ania³ otworów. ESC musi byæ skierowane trzema przewodami w stronê silnika. Odmierz odpowiedni¹ d³ugoœæ przewodów silnika i ESC a nastêpnie utnij je z zachowaniem odpowiedniego zapasu. <br>
